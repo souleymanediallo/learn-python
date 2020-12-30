@@ -1,9 +1,10 @@
-info = {"name": "Souleymane", "age": 34}
+def about(name, age, like):
+    info = "I am {}. I am {} years old and I like {}.".format(name, age, like)
+    return info
 
-print(info)
+dic = {"name": "Souley", "age": 37, "like": "Python"}
 
-info.pop("age")
+print(about(**dic))
 
-print(info)
+print("Hello")
 
-print(info.get("name"))
