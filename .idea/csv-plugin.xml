@@ -17,6 +17,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/chap_1/hello.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chap_1/main.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/chap_10/app_1.Py">
           <value>
             <Attribute>
@@ -66,6 +80,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/chap_13/main.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chap_13/paddle.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/chap_2/app_1.py">
           <value>
             <Attribute>
@@ -87,6 +115,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/chap_2/main.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/chap_2/oop.py">
           <value>
             <Attribute>
@@ -95,6 +130,13 @@
           </value>
         </entry>
         <entry key="/chap_2/sport_team.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chap_3/main.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
